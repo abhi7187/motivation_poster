@@ -1,0 +1,27 @@
+body{
+    background-color: lavender;
+    
+    
+h1{
+    font-family: "Libre Baskerville", serif;
+    color: rgb(9, 2, 2);
+    text-align: center;
+    margin-left: 10px;
+}
+p{
+    font-family: "Libre Baskerville", serif;
+    color: rgb(15, 15, 15);
+    text-align: center; 
+    margin-left: 10px;
+}
+img{
+    height: 500px;
+    width: 500px;
+    border: 5px rgb(29, 126, 153) solid;
+    margin-left: 500px;
+    
+}
+/*div{
+    width: 50%;
+    margin-left: 25%;
+}*/
